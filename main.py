@@ -25,7 +25,7 @@ headers = {
 
 data = {'token':str(token2)
 ,'action':'get_balance',
-'_token':str(token),'cardNumber': "1006589210"}
+'_token':str(token),'cardNumber': "YOUR_CARD_NUMBER"}
 
 
 
